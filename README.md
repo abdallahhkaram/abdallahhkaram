@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abdallahhkaram
+- 👀 I’m interested in Frontend and backend JavaScript development
+- 🌱 I’m currently learning PHP and Laravel
+- 💞️ I’m looking to collaborate on any JavaScript project
+- 📫 You could reach me through my website abdallahkaram.com
