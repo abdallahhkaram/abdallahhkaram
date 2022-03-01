@@ -23,8 +23,8 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="abdallah-karam-72a029160"
-      height="40"
-      width="40"
+      height="48"
+      width="48"
   /></a>
 
   <a href="https://abdallahkaram.com" target="_blank" rel="noreferrer">
