@@ -230,9 +230,7 @@
 <br />
 <br />
 
----
-
-### ⚡ GitHub Stats:
+## ⚡ GitHub Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallahhkaram&show_icons=true&locale=en&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="abdallahhkaram" /></p>
 
