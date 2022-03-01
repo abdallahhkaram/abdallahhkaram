@@ -4,6 +4,9 @@
 
 ## I'm an IT Manager, Developer, and Cat Dad!!
 
+<br/>
+<br/>
+
 - 🔭 I’m currently working on a private project 🤫
 - 🌱 I’m currently learning everything 🤣
 - 👀 I’m interested in Frontend and backend JavaScript development
@@ -13,11 +16,18 @@
 
 ### Connect with me:
 
+<br/>
+<br/>
+
 <p align="left">
 <a href="https://linkedin.com/in/abdallah-karam-72a029160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallah-karam-72a029160" height="30" width="40" /></a>
 </p>
+<a href="https://icons8.com/icon/VJz2Ob51dvZJ/website">Website icon by Icons8</a>
 
 ### Languages and Tools:
+
+<br/>
+<br/>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
