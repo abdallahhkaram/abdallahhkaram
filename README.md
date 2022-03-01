@@ -65,6 +65,7 @@
     />
   </a>
   <br />
+  <br />
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -81,6 +82,7 @@
       height="40"
     />
   </a>
+  <br />
   <br />
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -99,6 +101,7 @@
       height="40"
     />
   </a>
+  <br />
   <br />
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
@@ -140,6 +143,7 @@
       height="40"
     />
   </a>
+  <br />
   <br />
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img
@@ -208,6 +212,7 @@
       height="40"
     />
   </a>
+  <br />
   <br />
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
