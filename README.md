@@ -166,6 +166,7 @@
       width="40"
       height="40"
     />
+    <br/>
   &nbsp;
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
