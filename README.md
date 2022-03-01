@@ -12,7 +12,6 @@
 - 👀 I’m interested in Frontend and backend JavaScript development
 - 🥅 2022 Goals: Learn more about php, web3 and pixel art generation
 - ⚡ Fun fact: I love to game and watch cat videos
-- 📄 More About Me [abdallahkaram.com](abdallahkaram.com)
 
 ### Connect with me:
 
@@ -28,11 +27,10 @@
       width="40"
   /></a>
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://abdallahkaram.com" target="_blank" rel="noreferrer">
     <img
       src="https://img.icons8.com/fluency/48/000000/domain.png"
-      height="40"
-      width="40"
+     
     />
   </a>
 </p>
