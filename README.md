@@ -16,7 +16,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://linkedin.com/in/abdallah-karam-72a029160" target="blank"
+  <a href="https://linkedin.com/in/abdallah-karam-72a029160" target="_blank"
     >
     <img
       align="center"
