@@ -41,8 +41,6 @@
 <br />
 <br />
 
-## ⚡ GitHub Stats:
-
 
 
 [website]: https://abdallahkaram.com
