@@ -25,9 +25,6 @@
       height="48"
       width="48" />
 </a>
-
-&nbsp;
-
   <a href="https://abdallahkaram.com" target="_blank" rel="noreferrer">
     <img
       align="center"
