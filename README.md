@@ -12,11 +12,11 @@
 
 <br/>
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,astro,vite)
+![](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,astro,vite)
 
-![My Skills](https://skillicons.dev/icons?i=sass,tailwind,bootstrap,materialui)
+![](https://skillicons.dev/icons?i=sass,tailwind,bootstrap,materialui)
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nginx,docker,linux,git)
+![](https://skillicons.dev/icons?i=mongodb,mysql,nginx,docker,linux,git)
 
 <br/>
 
