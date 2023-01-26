@@ -26,8 +26,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abdallahkaram/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/abdallahkaram/" >
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="70" />
-  </a> <a href="https://abdallahkaram.com" target="_blank" rel="noopener noreferrer">
+  </a> <a href="https://abdallahkaram.com" >
     <img src="https://img.icons8.com/avantgarde/512/internet.png" width="70" height="70" />
   </a>
